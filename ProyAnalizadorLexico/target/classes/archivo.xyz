@@ -1,1 +1,1 @@
-raices_reales1 +>= 'Real Compleja' Raiz_1 4.:- 4.8E9 "$&$" -500 [A,b,c,(x),d] concatena("Hola","?")
+raices_reales1, +>=, ('Real Compleja' Raiz_1), 4., :-, 4.8E9, "$&$", -500, ([A,b,c,(x),d] concatena("Hola","?")).;
