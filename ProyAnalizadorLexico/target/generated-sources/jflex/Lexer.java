@@ -23,7 +23,8 @@ public class Lexer {
 
   /** lexical states */
   public static final int YYINITIAL = 0;
-
+  
+  /** Alfabeto del analizador lexico*/
   private static final int atomo=600;
   private static final int variable=601;
   private static final int predicado=602;
