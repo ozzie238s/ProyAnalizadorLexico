@@ -44,6 +44,11 @@ public class Lexer {
   private StringTokenizer tokenaizer = null;
   private Token currentToken;
   private String salida;
+
+    public Lexer() {
+    }
+  
+  
   /**
    * ZZ_LEXSTATE[l] is the state in the DFA for the lexical state l
    * ZZ_LEXSTATE[l+1] is the state in the DFA for the lexical state l
